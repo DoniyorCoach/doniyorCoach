@@ -16,4 +16,4 @@
 
 ## Сontact with me
 ![Telegram](https://img.shields.io/badge/-Telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=f06529)
-![Vkontakte](https://img.shields.io/badge/-Vkontakte-%2320232a.svg?style=for-the-badge&logo=Vkontakte&logoColor=f06529)
+![Vkontakte](https://img.shields.io/badge/-Vkontakte-%2320232a.svg?style=for-the-badge&logo=Vk&logoColor=4F7DB3)
