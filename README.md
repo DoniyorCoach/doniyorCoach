@@ -17,4 +17,4 @@
 
 ## Сontact with me
 [![Telegram](https://img.shields.io/badge/-Telegram-%2320232a.svg?style=for-the-badge&logo=Telegram&logoColor=f06529)](https://t.me/doniyor_coach)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-%2320232a.svg?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/stalkiz)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-%2320232a.svg?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/adaset)
